@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-15",
+    "type": "tv",
+    "name": "Sky Open",
+    "description": "Sky Open is New Zealand’s free-to-air channel offering a wide variety of entertainment, news, and sports to cater to diverse audiences. Featuring a mix of popular international series, blockbuster movies, and live sports coverage, the channel provides accessible content for everyone. Sky Open serves as a dynamic platform for quality programming, ensuring engaging viewing experiences across all interests.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/skyopennz.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sky_Open_Logo.png/500px-Sky_Open_Logo.png",
+    "tvgId": "skyopen.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/prime.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Sky Open",
+        "name": "HD"
+      }
+    ]
+  }
+}

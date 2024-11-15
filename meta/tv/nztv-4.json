@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-4",
+    "type": "tv",
+    "name": "Bravo",
+    "description": "Bravo is New Zealand's premier destination for reality and lifestyle entertainment, showcasing a blend of captivating reality series, true crime stories, and lifestyle programming. Featuring international hits alongside locally relevant content, Bravo offers an indulgent escape into the worlds of celebrity, fashion, and intrigue. With its vibrant and dramatic lineup, the channel provides endless entertainment for viewers who love compelling and glamorous storytelling.",
+    "genres": ["Main"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/bravonz.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/bravo-nz.png",
+    "tvgId": "bravo.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/bravo.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Bravo",
+        "name": "HD"
+      }
+    ]
+  }
+}

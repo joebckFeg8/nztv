@@ -1,0 +1,324 @@
+{
+  "metas": [
+    {
+      "id": "nztv-1",
+      "type": "tv",
+      "name": "TVNZ 1",
+      "description": "TVNZ 1 is New Zealand's flagship television channel, delivering a diverse mix of programming that informs, entertains, and connects audiences across the country. As part of the TVNZ network, the channel features trusted news and current affairs, locally produced dramas, documentaries, and entertainment shows alongside popular international content. With its commitment to reflecting New Zealand's unique culture and stories, TVNZ 1 remains a vital source of information and entertainment for viewers nationwide.",
+      "genres": ["Main"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/tvnz1.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/tvnz-1-nz.png",
+      "tvgId": "tvnz1.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/tvnz-1.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "TVNZ 1",
+          "name": "HD"
+        }
+      ]
+    },    
+    {
+      "id": "nztv-2",
+      "type": "tv",
+      "name": "TVNZ 2",
+      "description": "TVNZ 2 is New Zealand's go-to channel for vibrant, youth-oriented entertainment and family-friendly programming. Renowned for its lively mix of locally produced shows, international hits, reality TV, and comedies, TVNZ 2 delivers engaging content that resonates with a broad audience. From captivating dramas to lighthearted entertainment, the channel provides a fresh and dynamic viewing experience, making it a staple in New Zealand households.",
+      "genres": ["Main"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/tvnz2.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/tvnz-2-nz.png",
+      "tvgId": "tvnz2.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/tvnz-2.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "TVNZ 2",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-3",
+      "type": "tv",
+      "name": "Three",
+      "description": "Three is one of New Zealand's leading television channels, offering a bold mix of news, current affairs, and entertainment. Known for its dynamic programming, Three features acclaimed local productions, gripping dramas, and popular international shows. With its commitment to delivering quality content that informs and entertains, Three continues to be a favorite choice for viewers seeking a diverse and engaging viewing experience.",
+      "genres": ["Main"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/threenz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/three-nz.png",
+      "tvgId": "three.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/three.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Three",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-4",
+      "type": "tv",
+      "name": "Bravo",
+      "description": "Bravo is New Zealand's premier destination for reality and lifestyle entertainment, showcasing a blend of captivating reality series, true crime stories, and lifestyle programming. Featuring international hits alongside locally relevant content, Bravo offers an indulgent escape into the worlds of celebrity, fashion, and intrigue. With its vibrant and dramatic lineup, the channel provides endless entertainment for viewers who love compelling and glamorous storytelling.",
+      "genres": ["Main"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/bravonz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/bravo-nz.png",
+      "tvgId": "bravo.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/bravo.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Bravo",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-5",
+      "type": "tv",
+      "name": "Māori Television",
+      "description": "Māori Television is New Zealand's dedicated channel for celebrating Māori culture, language, and perspectives. With a diverse range of programming, including documentaries, dramas, current affairs, and educational content, the channel promotes Te Reo Māori and showcases the richness of Māori heritage. As a vital platform for storytelling and cultural connection, Māori Television strengthens the understanding and appreciation of Aotearoa's Indigenous identity while engaging audiences nationwide.",
+      "genres": ["Main"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/maoritvnz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/maori-television-nz.png",
+      "tvgId": "maoritv.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/maori-tv.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Māori Television",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-8",
+      "type": "tv",
+      "name": "Eden",
+      "description": "Eden is a New Zealand television channel offering a diverse mix of entertainment designed to inspire and captivate. Featuring an array of lifestyle shows, dramas, comedies, and documentaries, Eden delivers engaging content that resonates with a wide audience. With its unique blend of international hits and locally relevant programming, the channel provides a refreshing viewing experience for those seeking entertainment with a creative edge.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/edennz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/eden-nz.png",
+      "tvgId": "eden.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/eden.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Eden",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-10",
+      "type": "tv",
+      "name": "Te Reo",
+      "description": "Te Reo is New Zealand's dedicated Māori-language television channel, celebrating and preserving Te Reo Māori through immersive programming. Broadcasting entirely in the Māori language, the channel offers a range of content, including news, educational shows, cultural storytelling, and entertainment, all designed to promote fluency and connection to Māori traditions. Te Reo plays a vital role in revitalizing and normalizing the Māori language, providing an essential platform for cultural expression and identity in Aotearoa.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/tereonz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/te-reo-nz.png",
+      "tvgId": "tereo.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/te-reo.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Te Reo",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-14",
+      "type": "tv",
+      "name": "Rush",
+      "description": "Rush is New Zealand’s adrenaline-fueled television channel, delivering high-energy content for thrill-seekers and adventure enthusiasts. Featuring a dynamic lineup of extreme sports, action-packed reality shows, and gripping documentaries, Rush offers a non-stop viewing experience that celebrates the spirit of adventure. With its bold and exhilarating programming, the channel is a go-to destination for viewers who crave excitement and daring exploits.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/rushnz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/rush-nz.png",
+      "tvgId": "rush.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/rush-nz.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Rush",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-15",
+      "type": "tv",
+      "name": "Sky Open",
+      "description": "Sky Open is New Zealand’s free-to-air channel offering a wide variety of entertainment, news, and sports to cater to diverse audiences. Featuring a mix of popular international series, blockbuster movies, and live sports coverage, the channel provides accessible content for everyone. Sky Open serves as a dynamic platform for quality programming, ensuring engaging viewing experiences across all interests.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/skyopennz.jpg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sky_Open_Logo.png/500px-Sky_Open_Logo.png",
+      "tvgId": "skyopen.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/prime.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Sky Open",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-15",
+      "type": "tv",
+      "name": "Sky Open",
+      "description": "Sky Open is New Zealand’s free-to-air channel offering a wide variety of entertainment, news, and sports to cater to diverse audiences. Featuring a mix of popular international series, blockbuster movies, and live sports coverage, the channel provides accessible content for everyone. Sky Open serves as a dynamic platform for quality programming, ensuring engaging viewing experiences across all interests.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/skyopennz.jpg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sky_Open_Logo.png/500px-Sky_Open_Logo.png",
+      "tvgId": "skyopen.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/prime.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Sky Open",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-19",
+      "type": "tv",
+      "name": "HGTV",
+      "description": "HGTV (Home & Garden Television) is New Zealand's go-to channel for all things home improvement, design, and renovation. Featuring a wide range of shows focused on transforming spaces, landscaping, and interior decorating, HGTV inspires viewers with creative ideas and practical tips for home makeovers. With expert hosts and captivating transformations, the channel provides endless inspiration for anyone looking to enhance their living spaces and embrace the art of home design.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/hgtvnz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/hgtv-nz.png",
+      "tvgId": "hgtv.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/discovery-hgtv.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "HGTV",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-20",
+      "type": "tv",
+      "name": "Al Jazeera English",
+      "description": "Al Jazeera is a global news network that delivers in-depth coverage of international affairs, offering diverse perspectives on current events, politics, and social issues. Known for its comprehensive and unbiased reporting, Al Jazeera features a range of programming, including news, documentaries, and investigative journalism, with a focus on the Middle East and underreported regions. The channel serves as an essential platform for viewers seeking reliable, thought-provoking news and insights from around the world.",
+      "genres": ["World"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/aljazeera.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png",
+      "tvgId": "aljazeera.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/al-jazeera.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Al Jazeera",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-23",
+      "type": "tv",
+      "name": "Trackside 1",
+      "description": "Trackside 1 is New Zealand’s dedicated channel for live horse racing and sports coverage, offering real-time broadcasts of thoroughbred, harness, and greyhound racing events. With expert commentary, in-depth race analysis, and comprehensive coverage of major racing events, Trackside 1 caters to both casual viewers and dedicated fans of the sport. The channel provides a thrilling and informative viewing experience for those interested in the world of racing and wagering.",
+      "genres": ["Sports"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/trackside1nz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/trackside-1-nz.png",
+      "tvgId": "trackside1.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/trackside-1.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Trackside 1",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-24",
+      "type": "tv",
+      "name": "Trackside 2",
+      "description": "Trackside 2 is New Zealand’s companion channel to Trackside 1, providing additional live coverage of horse racing, harness racing, and greyhound events. With a focus on delivering continuous race broadcasts, replays, and expert analysis, Trackside 2 ensures that fans never miss a race. The channel offers a dynamic viewing experience for racing enthusiasts, featuring key events from both local and international racing scenes, as well as special programming focused on the sport.",
+      "genres": ["Sports"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/trackside2nz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/trackside-2-nz.png",
+      "tvgId": "trackside2.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/trackside-2.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Trackside 2",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "nztv-38",
+      "type": "tv",
+      "name": "Juice TV",
+      "description": "Juice TV is a New Zealand television channel that focuses on music and youth culture, featuring a dynamic mix of music videos, interviews, and entertainment programs. Aimed primarily at a younger audience, Juice TV showcases both local and international artists, celebrating the diverse music scene of New Zealand. With an emphasis on engaging content and interactive programming, Juice TV is a vibrant destination for music lovers and youth seeking the latest trends and cultural insights in the music industry.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/juicenz.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/juice-tv-nz.png",
+      "tvgId": "juice.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/juice-tv.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Juice TV",
+          "name": "SD"
+        }
+      ]
+    },      
+    {
+      "id": "nztv-41",
+      "type": "tv",
+      "name": "Wairarapa TV",
+      "description": "Wairarapa TV is a community-focused television channel serving the Wairarapa region of New Zealand. With a mix of local news, events, and stories, the channel provides a platform for showcasing the vibrant culture, people, and issues that matter most to the community. Offering a diverse range of programming, Wairarapa TV is dedicated to informing, connecting, and entertaining viewers in the region, while celebrating the unique identity and spirit of Wairarapa.",
+      "genres": ["Regional"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/wairarapanz.jpg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/WairarapaTVLogo.png/440px-WairarapaTVLogo.png",
+      "tvgId": "wairarapa.nz",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/wairarapa-tv.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Wairarapa TV",
+          "name": "HD"
+        }
+      ]
+    }
+  ]
+}

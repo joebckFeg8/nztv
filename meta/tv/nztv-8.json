@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-8",
+    "type": "tv",
+    "name": "Eden",
+    "description": "Eden is a New Zealand television channel offering a diverse mix of entertainment designed to inspire and captivate. Featuring an array of lifestyle shows, dramas, comedies, and documentaries, Eden delivers engaging content that resonates with a wide audience. With its unique blend of international hits and locally relevant programming, the channel provides a refreshing viewing experience for those seeking entertainment with a creative edge.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/edennz.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/eden-nz.png",
+    "tvgId": "eden.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/eden.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Eden",
+        "name": "HD"
+      }
+    ]
+  }
+}

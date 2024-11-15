@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-3",
+    "type": "tv",
+    "name": "Three",
+    "description": "Three is one of New Zealand's leading television channels, offering a bold mix of news, current affairs, and entertainment. Known for its dynamic programming, Three features acclaimed local productions, gripping dramas, and popular international shows. With its commitment to delivering quality content that informs and entertains, Three continues to be a favorite choice for viewers seeking a diverse and engaging viewing experience.",
+    "genres": ["Main"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/threenz.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/three-nz.png",
+    "tvgId": "three.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/three.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Three",
+        "name": "HD"
+      }
+    ]
+  }
+}

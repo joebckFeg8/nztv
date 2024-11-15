@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-19",
+    "type": "tv",
+    "name": "HGTV",
+    "description": "HGTV (Home & Garden Television) is New Zealand's go-to channel for all things home improvement, design, and renovation. Featuring a wide range of shows focused on transforming spaces, landscaping, and interior decorating, HGTV inspires viewers with creative ideas and practical tips for home makeovers. With expert hosts and captivating transformations, the channel provides endless inspiration for anyone looking to enhance their living spaces and embrace the art of home design.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/hgtvnz.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/hgtv-nz.png",
+    "tvgId": "hgtv.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/discovery-hgtv.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "HGTV",
+        "name": "HD"
+      }
+    ]
+  }
+}

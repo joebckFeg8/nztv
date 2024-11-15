@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-38",
+    "type": "tv",
+    "name": "Juice NZ",
+    "description": "Juice TV is a New Zealand television channel that focuses on music and youth culture, featuring a dynamic mix of music videos, interviews, and entertainment programs. Aimed primarily at a younger audience, Juice TV showcases both local and international artists, celebrating the diverse music scene of New Zealand. With an emphasis on engaging content and interactive programming, Juice TV is a vibrant destination for music lovers and youth seeking the latest trends and cultural insights in the music industry.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/juicenz.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/juice-tv-nz.png",
+    "tvgId": "juice.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/juice-tv.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Juice NZ",
+        "name": "SD"
+      }
+    ]
+  }
+}

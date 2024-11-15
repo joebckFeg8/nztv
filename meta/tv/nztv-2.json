@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-2",
+    "type": "tv",
+    "name": "TVNZ 2",
+    "description": "TVNZ 2 is New Zealand's go-to channel for vibrant, youth-oriented entertainment and family-friendly programming. Renowned for its lively mix of locally produced shows, international hits, reality TV, and comedies, TVNZ 2 delivers engaging content that resonates with a broad audience. From captivating dramas to lighthearted entertainment, the channel provides a fresh and dynamic viewing experience, making it a staple in New Zealand households.",
+    "genres": ["Main"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/tvnz2.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/tvnz-2-nz.png",
+    "tvgId": "tvnz2.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/tvnz-2.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "TVNZ 2",
+        "name": "HD"
+      }
+    ]
+  }
+}

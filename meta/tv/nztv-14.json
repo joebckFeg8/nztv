@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-14",
+    "type": "tv",
+    "name": "Rush",
+    "description": "Rush is New Zealand’s adrenaline-fueled television channel, delivering high-energy content for thrill-seekers and adventure enthusiasts. Featuring a dynamic lineup of extreme sports, action-packed reality shows, and gripping documentaries, Rush offers a non-stop viewing experience that celebrates the spirit of adventure. With its bold and exhilarating programming, the channel is a go-to destination for viewers who crave excitement and daring exploits.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/rushnz.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/rush-nz.png",
+    "tvgId": "rush.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/rush-nz.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Rush",
+        "name": "HD"
+      }
+    ]
+  }
+}

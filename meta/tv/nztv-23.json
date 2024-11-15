@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-23",
+    "type": "tv",
+    "name": "Trackside 1",
+    "description": "Trackside 1 is New Zealand’s dedicated channel for live horse racing and sports coverage, offering real-time broadcasts of thoroughbred, harness, and greyhound racing events. With expert commentary, in-depth race analysis, and comprehensive coverage of major racing events, Trackside 1 caters to both casual viewers and dedicated fans of the sport. The channel provides a thrilling and informative viewing experience for those interested in the world of racing and wagering.",
+    "genres": ["Sports"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/trackside1nz.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/trackside-1-nz.png",
+    "tvgId": "trackside1.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/trackside-1.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Trackside 1",
+        "name": "HD"
+      }
+    ]
+  }
+}

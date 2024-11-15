@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-10",
+    "type": "tv",
+    "name": "Te Reo",
+    "description": "Te Reo is New Zealand's dedicated Māori-language television channel, celebrating and preserving Te Reo Māori through immersive programming. Broadcasting entirely in the Māori language, the channel offers a range of content, including news, educational shows, cultural storytelling, and entertainment, all designed to promote fluency and connection to Māori traditions. Te Reo plays a vital role in revitalizing and normalizing the Māori language, providing an essential platform for cultural expression and identity in Aotearoa.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/teoreonz.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/te-reo-nz.png",
+    "tvgId": "tereo.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/te-reo.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Te Reo",
+        "name": "HD"
+      }
+    ]
+  }
+}

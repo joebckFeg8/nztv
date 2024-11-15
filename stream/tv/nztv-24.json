@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/trackside-2.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Trackside 2",
+      "name": "HD"
+    }
+  ]
+}

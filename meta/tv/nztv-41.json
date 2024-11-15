@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-41",
+    "type": "tv",
+    "name": "Wairarapa TV",
+    "description": "Wairarapa TV is a community-focused television channel serving the Wairarapa region of New Zealand. With a mix of local news, events, and stories, the channel provides a platform for showcasing the vibrant culture, people, and issues that matter most to the community. Offering a diverse range of programming, Wairarapa TV is dedicated to informing, connecting, and entertaining viewers in the region, while celebrating the unique identity and spirit of Wairarapa.",
+    "genres": ["Regional"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/wairarapanz.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/WairarapaTVLogo.png/440px-WairarapaTVLogo.png",
+    "tvgId": "wairarapa.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/wairarapa-tv.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Wairarapa TV",
+        "name": "HD"
+      }
+    ]
+  }
+}

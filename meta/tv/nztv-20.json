@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-20",
+    "type": "tv",
+    "name": "Al Jazeera English",
+    "description": "Al Jazeera is a global news network that delivers in-depth coverage of international affairs, offering diverse perspectives on current events, politics, and social issues. Known for its comprehensive and unbiased reporting, Al Jazeera features a range of programming, including news, documentaries, and investigative journalism, with a focus on the Middle East and underreported regions. The channel serves as an essential platform for viewers seeking reliable, thought-provoking news and insights from around the world.",
+    "genres": ["World"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/aljazeera.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png",
+    "tvgId": "aljazeera.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/al-jazeera.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Al Jazeera",
+        "name": "HD"
+      }
+    ]
+  }
+}

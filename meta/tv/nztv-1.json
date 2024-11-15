@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-1",
+    "type": "tv",
+    "name": "TVNZ 1",
+    "description": "TVNZ 1 is New Zealand's flagship television channel, delivering a diverse mix of programming that informs, entertains, and connects audiences across the country. As part of the TVNZ network, the channel features trusted news and current affairs, locally produced dramas, documentaries, and entertainment shows alongside popular international content. With its commitment to reflecting New Zealand's unique culture and stories, TVNZ 1 remains a vital source of information and entertainment for viewers nationwide.",
+    "genres": ["Main"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/tvnz1.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/tvnz-1-nz.png",
+    "tvgId": "tvnz1.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/tvnz-1.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "TVNZ 1",
+        "name": "HD"
+      }
+    ]
+  }
+}

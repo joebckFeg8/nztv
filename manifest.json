@@ -1,0 +1,25 @@
+{
+  "id": "community.nztv",
+  "version": "1.0.0",
+  "catalogs": [
+    {
+      "name": "NZ TV",
+      "type": "tv",
+      "id": "allnz"
+    }
+  ],
+  "resources": [
+    "catalog",
+    "stream",
+    "meta"
+  ],
+  "types": [
+    "tv"
+  ],
+  "idPrefixes": [
+    "nztv"
+  ],
+  "name": "NZ TV",
+  "description": "NZ TV provides access to New Zealand free-to-air channels.",
+  "logo": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/public/nz-logo.png"
+}

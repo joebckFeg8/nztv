@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "nztv-5",
+    "type": "tv",
+    "name": "Māori Television",
+    "description": "Māori Television is New Zealand's dedicated channel for celebrating Māori culture, language, and perspectives. With a diverse range of programming, including documentaries, dramas, current affairs, and educational content, the channel promotes Te Reo Māori and showcases the richness of Māori heritage. As a vital platform for storytelling and cultural connection, Māori Television strengthens the understanding and appreciation of Aotearoa's Indigenous identity while engaging audiences nationwide.",
+    "genres": ["Main"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/nztv/refs/heads/main/posters/maoritvnz.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/maori-television-nz.png",
+    "tvgId": "maoritv.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/maori-tv.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Māori Television",
+        "name": "HD"
+      }
+    ]
+  }
+}
